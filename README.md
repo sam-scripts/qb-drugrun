@@ -1,4 +1,4 @@
-<h1>QB-Core Drug Running Script [Synchronized]</h1>
+<h1>QB-Core Drug Running Script</h1>
 
 <strong>Preview:</strong> google.com
 
