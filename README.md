@@ -13,7 +13,7 @@
 <h4>Installation</h4>
 
 <ol>
-  <li>Download the repository <a href="[https://github.com/sam-scripts/qb-drugrun]">here</a>.</li>
+  <li>Download the repository <a href="https://github.com/sam-scripts/qb-drugrun">here</a>.</li>
   <li>Extract the folder and upload it to your servers resource folder</li>
 </ol>
 
