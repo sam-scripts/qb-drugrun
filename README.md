@@ -1,4 +1,4 @@
-![Screenshot]([https://github.com/username/repo/assets/image-id](https://cdn.discordapp.com/attachments/990049365097840691/1383549256870264852/fd872142-0de5-4ba1-a49b-f443f07f46c5.png?ex=684f3227&is=684de0a7&hm=c5ea65c67f8147a55dd50374e7e049d3497d376aacb122a0889934f65d9f270c&))<h1>QB-Core Drug Running Script</h1>
+<h1>QB-Core Drug Running Script</h1>
 
 <li><strong>Video Preview </strong><a href="https://github.com/sam-scripts/qb-drugrun">Video</a>.</li>
 
