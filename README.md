@@ -1,6 +1,6 @@
 <h1>QB-Core Drug Running Script</h1>
 
-<strong>Preview:</strong> google.com
+<li><strong>Download the repository </strong><a href="https://github.com/sam-scripts/qb-drugrun">here</a>.</li>
 
 <h4>Features</h4>
 
