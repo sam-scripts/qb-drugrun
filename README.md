@@ -7,7 +7,7 @@
 <ul>
     <li>Open Source</li>
     <li>Reputation System</li>
-    <li>Indepth Config File/li>
+    <li>Indepth Config File</li>
 </ul>
 
 <h4>Installation</h4>
