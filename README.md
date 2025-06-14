@@ -1,6 +1,6 @@
 <h1>QB-Core Drug Running Script</h1>
 
-<li><strong>Video Preview </strong><a href="https://github.com/sam-scripts/qb-drugrun">Video</a>.</li>
+<li><strong>Video Preview </strong><a href="https://youtu.be/zaILGR7gde0">Video</a>.</li>
 
 <h4>Features</h4>
 
@@ -8,6 +8,8 @@
     <li>Open Source</li>
     <li>Reputation System</li>
     <li>Indepth Config File</li>
+    <li>Multiple Delivery Points</li>
+    <li>Higher Rewards For Higher Reputation</li>
 </ul>
 
 <h4>Installation</h4>
