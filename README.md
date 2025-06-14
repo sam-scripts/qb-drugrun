@@ -2,6 +2,11 @@
 
 <li><strong>Video Preview </strong><a href="https://youtu.be/zaILGR7gde0">Video</a>.</li>
 
+## Dependencies
+
+[Oxlib/oxmysql](https://github.com/overextended/oxmysql)
+
+
 <h4>Features</h4>
 
 <ul>
