@@ -15,6 +15,7 @@
     <li>Indepth Config File</li>
     <li>Multiple Delivery Points</li>
     <li>Higher Rewards For Higher Reputation</li>
+    <li>Reputation Decrease On Run Fails</li>
 </ul>
 
 <h4>Installation</h4>
